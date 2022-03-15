@@ -2,7 +2,7 @@
 - https://www.pythonsheets.com/notes/python-sqlalchemy.html#update-multiple-rows
 
 ### SQLAlchemy supported engines
-https://docs.sqlalchemy.org/en/14/core/engines.html
+- https://docs.sqlalchemy.org/en/14/core/engines.html
 
 ### Anaconda activate/deactivate ENV
 ```
